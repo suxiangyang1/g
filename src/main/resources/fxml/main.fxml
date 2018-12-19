@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <?import javafx.scene.control.*?>
+        <?import javafx.scene.layout.*?>
+
+        <?import javafx.scene.image.ImageView?>
+        <?import javafx.scene.image.Image?>
+        <?import javafx.scene.shape.Line?>
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.soft1841.week2.YyController">
+<top>
+    <AnchorPane>
+
+        <Button text="立即下载" AnchorPane.leftAnchor="900" AnchorPane.topAnchor="450" styleClass="zzz"/>
+        <ImageView AnchorPane.leftAnchor="1870" AnchorPane.topAnchor="340">
+            <Image url="/img/9.png"/>
+        </ImageView>
+        <ImageView AnchorPane.leftAnchor="1870" AnchorPane.topAnchor="385">
+            <Image url="/img/10.png"/>
+        </ImageView>
+        <ImageView AnchorPane.leftAnchor="1870" AnchorPane.topAnchor="430">
+            <Image url="/img/10.png"/>
+        </ImageView>
+        <ImageView AnchorPane.leftAnchor="1870" AnchorPane.topAnchor="475">
+            <Image url="/img/10.png"/>
+        </ImageView>
+        <ImageView AnchorPane.leftAnchor="1870" AnchorPane.topAnchor="520">
+            <Image url="/img/10.png"/>
+        </ImageView>
+        <ImageView AnchorPane.leftAnchor="1870" AnchorPane.topAnchor="565">
+            <Image url="/img/10.png"/>
+        </ImageView>
+
+        <ImageView AnchorPane.topAnchor="38" AnchorPane.leftAnchor="130">
+            <Image url="/img/7.png"/>
+        </ImageView>
+        <ImageView AnchorPane.topAnchor="38" AnchorPane.leftAnchor="130">
+            <Image url="/img/6.png"/>
+        </ImageView>
+        <Line AnchorPane.topAnchor="760" startY="50" endX="1919" endY="40" styleClass="ttt"/>
+        <Label text="QQ音乐" AnchorPane.topAnchor="28" AnchorPane.leftAnchor="180" styleClass="www"/>
+        <ImageView AnchorPane.topAnchor="860" AnchorPane.leftAnchor="280">
+            <Image  url="/img/0.png"/>
+        </ImageView>
+        <ImageView AnchorPane.topAnchor="860" AnchorPane.leftAnchor="700">
+            <Image  url="/img/3.png"/>
+        </ImageView>
+        <ImageView AnchorPane.topAnchor="860" AnchorPane.leftAnchor="1120">
+            <Image  url="/img/4.png"/>
+        </ImageView>
+        <ImageView AnchorPane.topAnchor="860" AnchorPane.leftAnchor="1540">
+            <Image  url="/img/5.png"/>
+        </ImageView>
+        <Label text="用PC听歌" AnchorPane.topAnchor="170" AnchorPane.leftAnchor="900" styleClass="lll"/>
+        <Label text="加速你的QQ等级" AnchorPane.topAnchor="270" AnchorPane.leftAnchor="900" styleClass="lll" />
+        <Label text="登陆账号听歌60分钟，等级加速0.5天" AnchorPane.topAnchor="400" AnchorPane.leftAnchor="900" styleClass="yyy" />
+        <Label text="产品动态" AnchorPane.leftAnchor="380" AnchorPane.topAnchor="34" styleClass="font"/>
+        <Label text="下载" AnchorPane.leftAnchor="550" AnchorPane.topAnchor="36" styleClass="yyy"/>
+        <Label text="PC版介绍" AnchorPane.leftAnchor="1100" AnchorPane.topAnchor="36" styleClass="yyy"/>
+        <Label text="MAC介绍" AnchorPane.leftAnchor="1300" AnchorPane.topAnchor="36" styleClass="yyy"/>
+        <Label text="轻听介绍" AnchorPane.leftAnchor="1500" AnchorPane.topAnchor="36" styleClass="yyy"/>
+        <Label text="PC版" AnchorPane.leftAnchor="270" AnchorPane.topAnchor="900" styleClass="yyy"/>
+        <Label text="Mac版" AnchorPane.leftAnchor="680" AnchorPane.topAnchor="900" styleClass="yyy"/>
+        <Label text="iPone版" AnchorPane.leftAnchor="1090" AnchorPane.topAnchor="900" styleClass="yyy"/>
+        <Label text="Android版" AnchorPane.leftAnchor="1500" AnchorPane.topAnchor="900" styleClass="yyy"/>
+
+    </AnchorPane>
+</top>
+
+</BorderPane>

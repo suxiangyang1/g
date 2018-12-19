@@ -1,0 +1,43 @@
+.root{
+    -fx-background-image: url("/img/b1.jpg");
+
+}
+.font{
+    -fx-text-fill: #76ffa2;
+    -fx-font-size: 35px;
+}
+.yyy{
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 26px;
+}
+.sss{
+    -fx-background-color: #FFFFFF;
+    -fx-min-width: 1000;
+}
+.ttt{
+    -fx-text-fill: #ff8495;
+}
+.label:hover{
+    -fx-background-color: rgb(54, 255, 252);
+}
+.image:hover{
+    -fx-background-color: rgb(121, 255, 212);
+}
+.lll{
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 80px;
+}
+.zzz{
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 50px;
+    -fx-background-color: rgb(118, 255, 162);
+    -fx-border-radius: 50;
+    -fx-background-radius: 50;
+    -fx-pref-width: 300px;
+    -fx-pref-height: 80px;
+}
+.www{
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 45px;
+}
+
